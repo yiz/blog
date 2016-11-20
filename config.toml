@@ -1,0 +1,18 @@
+languageCode = "zh-cn"
+baseurl = "https://yiz.github.io/"
+title = "Yi Zhang's blog"
+theme = "hugo-theme-bootstrap4-blog"
+
+copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+
+googleAnalytics = "UA-87734563-1"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+  page = "/:slug/"
+
+[params]
+  author = "Yi Zhang"
+
+  [params.social]
+    twitter = "starain"
