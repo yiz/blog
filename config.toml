@@ -1,5 +1,5 @@
 languageCode = "zh-cn"
-baseurl = "http://yizhang.us"
+baseurl = "http://yizhang.us/"
 title = "数说"
 theme = "hugo-theme-bootstrap4-blog"
 
