@@ -1,15 +1,14 @@
 languageCode = "zh-cn"
 baseurl = "https://yiz.github.io/"
-title = "Yi Zhang's blog"
+title = "数说"
 theme = "hugo-theme-bootstrap4-blog"
 
-copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+copyright = "&copy;[Yi Zhang](mailto:yizh.me@gmail.com) 转载须以超链接形式标明文章原始出处和作者信息"
 
 googleAnalytics = "UA-87734563-1"
 
 [permalinks]
-  post = "/:year/:month/:title/"
-  page = "/:slug/"
+  post = "/:year/:month/:filename/"
 
 [params]
   author = "Yi Zhang"
