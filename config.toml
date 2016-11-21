@@ -1,5 +1,5 @@
 languageCode = "zh-cn"
-baseurl = "https://yiz.github.io/"
+baseurl = "http://yizhang.us"
 title = "数说"
 theme = "hugo-theme-bootstrap4-blog"
 
