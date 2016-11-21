@@ -90,7 +90,7 @@ baseurl = "https://username.github.io/"
 title = "username's blog"
 theme = "hugo-theme-bootstrap4-blog"
 
-copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+copyright = "All Rights Reserved."
 
 [permalinks]
   post = "/:year/:month/:filename/"
@@ -124,5 +124,7 @@ git push --set-upstream origin master
 在这之后，可以用一行命令搞定，献给像我一样的懒癌患者：
 
 ```
-COMMIT_COMMENT='awesome post'; hugo; cd public; git commit -am $COMMIT_COMMENT; git push; cd ..; git commit -am $COMMIT_COMMENT; git push
+COMMIT_COMMENT='awesome post'; \
+hugo; cd public; git commit -am $COMMIT_COMMENT; git push; cd ..; \
+git commit -am $COMMIT_COMMENT; git push
 ```
