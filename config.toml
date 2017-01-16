@@ -8,6 +8,11 @@ copyright = "&copy;[Yi Zhang](mailto:yizh.me@gmail.com) 转载须以超链接形
 googleAnalytics = "UA-87734563-1"
 disqusShortname = "yiz"
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+
 [permalinks]
   post = "/:year/:month/:filename/"
 

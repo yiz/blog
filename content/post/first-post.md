@@ -1,8 +1,10 @@
 +++
 date = "2016-11-20T14:03:43-08:00"
 title = "用Hugo在GitHub上创建自己的个人网站"
+tags = [ "Blogging", "Hugo", "Tech", "Tools" ]
+categories = [ "Development" ]
+series = [ "Hugo" ]
 draft = false
-
 +++
 
 # 起源
