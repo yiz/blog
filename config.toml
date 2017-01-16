@@ -6,6 +6,7 @@ theme = "hugo-theme-bootstrap4-blog"
 copyright = "&copy;[Yi Zhang](mailto:yizh.me@gmail.com) 转载须以超链接形式标明文章原始出处和作者信息"
 
 googleAnalytics = "UA-87734563-1"
+disqusShortname = "yiz"
 
 [permalinks]
   post = "/:year/:month/:filename/"
